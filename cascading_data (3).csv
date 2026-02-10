@@ -1,0 +1,12 @@
+username,password,adm1,adm2,adm3,hf,community,school_name,name,telephone,qr_code
+admin,admin123,Bo,Kakua,Kakua Town,Bo Government Hospital,Kindia Town,St. Joseph Primary,Mohamed Kanu,076123456,1001
+user01,pass01,Bo,Kakua,Kakua Town,Bo Government Hospital,Njai Town,Methodist Primary,Aminata Sesay,078234567,1002
+user02,pass02,Bo,Kakua,Kakua Town,Bo Government Hospital,Salina,Community Primary,Ibrahim Kamara,077345678,1003
+user03,pass03,Bo,Tikonko,Tikonko Town,Tikonko CHC,Gboyama,Gboyama Primary,Fatmata Bangura,076456789,1004
+user04,pass04,Bo,Tikonko,Tikonko Town,Tikonko CHC,Mongeri,Mongeri Primary,Alhaji Conteh,078567890,1005
+user05,pass05,Kenema,Nongowa,Kenema City,Kenema Government Hospital,Dama Road,Dama Road Primary,Mariama Jalloh,077678901,1006
+user06,pass06,Kenema,Nongowa,Kenema City,Kenema Government Hospital,Nyandeyama,Nyandeyama Primary,Abu Bakarr Turay,076789012,1007
+user07,pass07,Kenema,Small Bo,Blama,Blama CHC,Giema,Giema Primary,Hawa Koroma,078890123,1008
+user08,pass08,Bombali,Bombali Shebora,Makeni City,Makeni Government Hospital,Rogbaneh,Holy Trinity Primary,Santigie Dumbuya,077901234,1009
+user09,pass09,Bombali,Bombali Shebora,Makeni City,Makeni Government Hospital,Teko,Teko Community School,Isata Mansaray,076012345,1010
+user10,pass10,Kailahun,Luawa,Kailahun Town,Kailahun Government Hospital,Baiwala,Baiwala Primary,Musa Kallon,078123456,1011
